@@ -1,0 +1,6 @@
+{
+    "email": "student@example.com",
+    "registerNumber": "123456",
+    "marks": [80, 75, 90, 85, 95] // Example marks for 5 subjects
+  }
+  
